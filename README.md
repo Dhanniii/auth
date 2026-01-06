@@ -240,19 +240,5 @@ If port 5173 or 5000 is already in use:
 - All console.log debug statements have been removed for production readiness
 - SweetAlert2 themes automatically match the selected UI theme
 
-## Security Considerations
 
-- Change the default admin credentials in production
-- Use a strong JWT secret
-- Implement rate limiting for API endpoints
-- Add input validation and sanitization
-- Use HTTPS in production
-- Store sensitive data in environment variables
 
-## License
-
-ISC
-
-## Author
-
-Created as a demonstration project for authentication and CRUD operations with React and Express.js.
